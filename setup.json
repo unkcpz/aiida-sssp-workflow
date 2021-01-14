@@ -60,7 +60,7 @@
         "aiida-quantumespresso~=3.2",
         "aiida-codtools~=2.1",
         "aiida-optimize~=0.4",
-        "numpy",
+        "numpy~=1.17",
         "ase~=3.20",
         "seekpath~=1.9",
         "importlib-resources~=3.3",
